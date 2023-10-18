@@ -5,4 +5,6 @@ The power of HTML, CSS, and JavaScript combined to create a dynamic and user-fri
 
 # Link to your task handler
 
-https://minute-buddy.vercel.app
+https://minute-buddy.vercel.app ✨
+
+Hope you like it!!🫶🏼
